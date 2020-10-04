@@ -3,14 +3,16 @@ date: 2019-05-16
 year: 2019
 title: Banana
 category: Identity
-thumbnail: "/uploads/mike-dorner-173502-unsplash.jpg"
+thumbnail: "/uploads/primary-full.jpeg"
 categories:
-- photography
-- pink
+- School
+- Education
+- Primary-section
 project_bg_color: ''
 project_fg_color: ''
 
 ---
-The **banana** fruits grow from a **banana** blossom in hanging clusters, also called a bunch or **banana** stem. The fruits grow in rows called tiers or hands. There can be as many as twenty fruits to a hand, and as many as twenty tiers in a bunch. A bunch usually weighs between 30 and 50 kilograms (65 to 110 pounds).
 
-![](/uploads/mike-dorner-173502-unsplash.jpg)
+Olaitan Schools is without a doubt the boarding school everyone in Kwara state and it's environ has heard of and it is not without a reason, since we produce year after year students with the most outstanding academic performance in the country. Students in Olaitan Schools are highly intelligent, hardworking and committed to achieving highly. The school occupies a large site in the Kwara town of Offa, just an hour drive to the state capital where an airport can be accessed and less than a 3 minute walk from the national train station. It is no wonder than parent often put Olaitan Schools at the top of their list when looking at great boarding schools especially when they realise that the school boasts some of the finest facilities for Music, Science and Technology as well as the fantastic exam results that are so widely admired.
+
+![Primary section](/uploads/primary-full.jpeg "Olaitan Nursery & Primary School, Offa, Kwara state, Nigeria")
